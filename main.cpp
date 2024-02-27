@@ -3,12 +3,20 @@
 #include "PrimerExercises_1_3.h"
 #include "PrimerExercises_1_4.h"
 #include "PrimerExercises_1_5.h"
+#include "Primer_1_4_1.h"
+#include "PrimerExercises_1_9.h"
+#include "PrimerExercises_1_10.h"
+#include "PrimerExercises_1_11.h"
 
 int main()
 {
   //Primer_1_2::primer_1_2();
   //PrimerExercises_1_3::primer_exercises_1_3();
   //PrimerExercises_1_4::primerExercises_1_4();
-  PrimerExercises_1_5::primerExercises_1_5();
+  //PrimerExercises_1_5::primerExercises_1_5();
+  //Primer_1_4_1::primer_1_4_1();
+  //PrimerExercises_1_9::primerExercises_1_9();
+  //PrimerExercises_1_10::primerExercises_1_10();
+  //PrimerExercises_1_11::primerExercises_1_11();
   return 0;
 }

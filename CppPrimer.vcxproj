@@ -120,16 +120,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PrimerExercises_1_10.cpp" />
+    <ClCompile Include="PrimerExercises_1_11.cpp" />
     <ClCompile Include="PrimerExercises_1_4.cpp" />
     <ClCompile Include="PrimerExercises_1_3.cpp" />
     <ClCompile Include="PrimerExercises_1_5.cpp" />
+    <ClCompile Include="PrimerExercises_1_9.cpp" />
     <ClCompile Include="Primer_1_2.cpp" />
+    <ClCompile Include="Primer_1_4_1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PrimerExercises_1_10.h" />
+    <ClInclude Include="PrimerExercises_1_11.h" />
     <ClInclude Include="PrimerExercises_1_4.h" />
     <ClInclude Include="PrimerExercises_1_3.h" />
     <ClInclude Include="PrimerExercises_1_5.h" />
+    <ClInclude Include="PrimerExercises_1_9.h" />
     <ClInclude Include="Primer_1_2.h" />
+    <ClInclude Include="Primer_1_4_1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
