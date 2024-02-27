@@ -13,6 +13,9 @@
 #include "PrimerExercises_1_13_3.h"
 #include "Primer_1_4_3.h"
 #include "PrimerExercises_1_16.h"
+#include "Primer_1_4_4.h"
+#include "PrimerExercises_1_18.h"
+#include "PrimerExercises_1_19.h"
 
 int main()
 {
@@ -29,6 +32,9 @@ int main()
   //PrimerExercises_1_13_2::primerExercises_1_13_2();
   //PrimerExercises_1_13_3::primerExercises_1_13_3();
   //Primer_1_4_3::primer_1_4_3();
-  PrimerExercises_1_16::primerExercises_1_16();
+  //PrimerExercises_1_16::primerExercises_1_16();
+  //Primer_1_4_4::primer_1_4_4();
+  //PrimerExercises_1_18::primerExercises_1_18();
+  //PrimerExercises_1_19::primerExercises_1_19();
   return 0;
 }
