@@ -87,6 +87,9 @@
     <ClCompile Include="PrimerExercises_1_23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Primer_1_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PrimerExercises_1_4.h">
@@ -162,6 +165,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PrimerExercises_1_23.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_1_6.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
