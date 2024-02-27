@@ -137,6 +137,7 @@
     <ClCompile Include="Primer_1_4_2.cpp" />
     <ClCompile Include="Primer_1_4_3.cpp" />
     <ClCompile Include="Primer_1_4_4.cpp" />
+    <ClCompile Include="Sales_item.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PrimerExercises_1_18.h" />
@@ -156,6 +157,7 @@
     <ClInclude Include="Primer_1_4_2.h" />
     <ClInclude Include="Primer_1_4_3.h" />
     <ClInclude Include="Primer_1_4_4.h" />
+    <ClInclude Include="Sales_item.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
