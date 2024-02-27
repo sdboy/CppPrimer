@@ -7,6 +7,10 @@
 #include "PrimerExercises_1_9.h"
 #include "PrimerExercises_1_10.h"
 #include "PrimerExercises_1_11.h"
+#include "Primer_1_4_2.h"
+#include "PrimerExercises_1_13_1.h"
+#include "PrimerExercises_1_13_2.h"
+#include "PrimerExercises_1_13_3.h"
 
 int main()
 {
@@ -18,5 +22,9 @@ int main()
   //PrimerExercises_1_9::primerExercises_1_9();
   //PrimerExercises_1_10::primerExercises_1_10();
   //PrimerExercises_1_11::primerExercises_1_11();
+  //Primer_1_4_2::primer_1_4_2();
+  //PrimerExercises_1_13_1::primerExercises_1_13_1();
+  //PrimerExercises_1_13_2::primerExercises_1_13_2();
+  //PrimerExercises_1_13_3::primerExercises_1_13_3();
   return 0;
 }

@@ -42,6 +42,18 @@
     <ClCompile Include="PrimerExercises_1_11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Primer_1_4_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_1_13_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_1_13_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_1_13_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PrimerExercises_1_4.h">
@@ -66,6 +78,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PrimerExercises_1_11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_1_4_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_1_13_1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_1_13_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_1_13_3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
