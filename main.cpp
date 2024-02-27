@@ -16,6 +16,12 @@
 #include "Primer_1_4_4.h"
 #include "PrimerExercises_1_18.h"
 #include "PrimerExercises_1_19.h"
+#include "Primer_1_5_1.h"
+#include "PrimerExercises_1_20.h"
+#include "PrimerExercises_1_21.h"
+#include "PrimerExercises_1_22.h"
+#include "Primer_1_5_2.h"
+#include "PrimerExercises_1_23.h"
 
 int main()
 {
@@ -36,5 +42,12 @@ int main()
   //Primer_1_4_4::primer_1_4_4();
   //PrimerExercises_1_18::primerExercises_1_18();
   //PrimerExercises_1_19::primerExercises_1_19();
+  //Primer_1_5_1::primer_1_5_1_rw();
+  //Primer_1_5_1::primer_1_5_1_add();
+  //PrimerExercises_1_20::primerExercises_1_20();
+  //PrimerExercises_1_21::primerExercises_1_21();
+  //PrimerExercises_1_22::primerExercises_1_22();
+  //Primer_1_5_2::primer_1_5_2();
+  //PrimerExercises_1_23::primerExercises_1_23();
   return 0;
 }

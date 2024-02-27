@@ -128,6 +128,10 @@
     <ClCompile Include="PrimerExercises_1_13_3.cpp" />
     <ClCompile Include="PrimerExercises_1_16.cpp" />
     <ClCompile Include="PrimerExercises_1_19.cpp" />
+    <ClCompile Include="PrimerExercises_1_20.cpp" />
+    <ClCompile Include="PrimerExercises_1_21.cpp" />
+    <ClCompile Include="PrimerExercises_1_22.cpp" />
+    <ClCompile Include="PrimerExercises_1_23.cpp" />
     <ClCompile Include="PrimerExercises_1_4.cpp" />
     <ClCompile Include="PrimerExercises_1_3.cpp" />
     <ClCompile Include="PrimerExercises_1_5.cpp" />
@@ -137,7 +141,8 @@
     <ClCompile Include="Primer_1_4_2.cpp" />
     <ClCompile Include="Primer_1_4_3.cpp" />
     <ClCompile Include="Primer_1_4_4.cpp" />
-    <ClCompile Include="Sales_item.cpp" />
+    <ClCompile Include="Primer_1_5_1.cpp" />
+    <ClCompile Include="Primer_1_5_2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PrimerExercises_1_18.h" />
@@ -148,6 +153,10 @@
     <ClInclude Include="PrimerExercises_1_13_3.h" />
     <ClInclude Include="PrimerExercises_1_16.h" />
     <ClInclude Include="PrimerExercises_1_19.h" />
+    <ClInclude Include="PrimerExercises_1_20.h" />
+    <ClInclude Include="PrimerExercises_1_21.h" />
+    <ClInclude Include="PrimerExercises_1_22.h" />
+    <ClInclude Include="PrimerExercises_1_23.h" />
     <ClInclude Include="PrimerExercises_1_4.h" />
     <ClInclude Include="PrimerExercises_1_3.h" />
     <ClInclude Include="PrimerExercises_1_5.h" />
@@ -157,7 +166,13 @@
     <ClInclude Include="Primer_1_4_2.h" />
     <ClInclude Include="Primer_1_4_3.h" />
     <ClInclude Include="Primer_1_4_4.h" />
+    <ClInclude Include="Primer_1_5_1.h" />
+    <ClInclude Include="Primer_1_5_2.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="Sales_item.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CppPrimer.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

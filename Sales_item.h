@@ -71,6 +71,7 @@ operator!=(const Sales_item& lhs, const Sales_item& rhs)
 }
 
 // assumes that both objects refer to the same ISBN
+inline
 Sales_item& Sales_item::operator+=(const Sales_item& rhs)
 {
   units_sold += rhs.units_sold;
@@ -79,6 +80,7 @@ Sales_item& Sales_item::operator+=(const Sales_item& rhs)
 }
 
 // assumes that both objects refer to the same ISBN
+inline
 Sales_item
 operator+(const Sales_item& lhs, const Sales_item& rhs)
 {
@@ -87,6 +89,7 @@ operator+(const Sales_item& lhs, const Sales_item& rhs)
   return ret;           // return (|ret|) by value
 }
 
+inline
 std::istream&
 operator>>(std::istream& in, Sales_item& s)
 {
@@ -100,6 +103,7 @@ operator>>(std::istream& in, Sales_item& s)
   return in;
 }
 
+inline
 std::ostream&
 operator<<(std::ostream& out, const Sales_item& s)
 {
@@ -108,6 +112,7 @@ operator<<(std::ostream& out, const Sales_item& s)
   return out;
 }
 
+inline
 double Sales_item::avg_price() const
 {
   if (units_sold)
