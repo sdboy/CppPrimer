@@ -19,6 +19,12 @@
     <Filter Include="Header Files\ChapterOneHead">
       <UniqueIdentifier>{f380aa7e-8e31-4917-98be-83678cc9e0af}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\UtilCpp">
+      <UniqueIdentifier>{8e846be6-42f0-4b00-94ed-1ada389cafde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UtilHead">
+      <UniqueIdentifier>{9ef1987d-fe39-421c-94bd-791d71be0ef4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -95,6 +101,12 @@
     </ClCompile>
     <ClCompile Include="PrimerExercises_1_23.cpp">
       <Filter>Source Files\ChapterOneCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="UtilMod.cpp">
+      <Filter>Source Files\UtilCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_2_3.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -175,6 +187,12 @@
     </ClInclude>
     <ClInclude Include="PrimerExercises_1_23.h">
       <Filter>Header Files\ChapterOneHead</Filter>
+    </ClInclude>
+    <ClInclude Include="UtilMod.h">
+      <Filter>Header Files\UtilHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_2_3.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

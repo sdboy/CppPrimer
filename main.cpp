@@ -23,6 +23,8 @@
 #include "Primer_1_5_2.h"
 #include "PrimerExercises_1_23.h"
 #include "Primer_1_6.h"
+#include "UtilMod.h"
+#include "PrimerExercises_2_3.h"
 
 int main()
 {
@@ -51,5 +53,6 @@ int main()
   //Primer_1_5_2::primer_1_5_2();
   //PrimerExercises_1_23::primerExercises_1_23();
   //Primer_1_6::primer_1_6();
+  //PrimerExercises_2_3::primerExercises_2_3();
   return 0;
 }

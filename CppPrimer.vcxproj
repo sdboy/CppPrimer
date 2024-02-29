@@ -136,6 +136,7 @@
     <ClCompile Include="PrimerExercises_1_3.cpp" />
     <ClCompile Include="PrimerExercises_1_5.cpp" />
     <ClCompile Include="PrimerExercises_1_9.cpp" />
+    <ClCompile Include="PrimerExercises_2_3.cpp" />
     <ClCompile Include="Primer_1_2.cpp" />
     <ClCompile Include="Primer_1_4_1.cpp" />
     <ClCompile Include="Primer_1_4_2.cpp" />
@@ -144,6 +145,7 @@
     <ClCompile Include="Primer_1_5_1.cpp" />
     <ClCompile Include="Primer_1_5_2.cpp" />
     <ClCompile Include="Primer_1_6.cpp" />
+    <ClCompile Include="UtilMod.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PrimerExercises_1_18.h" />
@@ -162,6 +164,7 @@
     <ClInclude Include="PrimerExercises_1_3.h" />
     <ClInclude Include="PrimerExercises_1_5.h" />
     <ClInclude Include="PrimerExercises_1_9.h" />
+    <ClInclude Include="PrimerExercises_2_3.h" />
     <ClInclude Include="Primer_1_2.h" />
     <ClInclude Include="Primer_1_4_1.h" />
     <ClInclude Include="Primer_1_4_2.h" />
@@ -172,6 +175,7 @@
     <ClInclude Include="Primer_1_6.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Sales_item.h" />
+    <ClInclude Include="UtilMod.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="CppPrimer.rc" />
