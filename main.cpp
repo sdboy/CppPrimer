@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include "Primer_1_2.h"
 #include "PrimerExercises_1_3.h"
 #include "PrimerExercises_1_4.h"
@@ -25,6 +26,12 @@
 #include "Primer_1_6.h"
 #include "UtilMod.h"
 #include "PrimerExercises_2_3.h"
+#include "PrimerExercises_2_18.h"
+#include "PrimerExercises_2_34.h"
+#include "PrimerExercises_2_35.h"
+#include "PrimerExercises_2_36.h"
+#include "PrimerExercises_2_37.h"
+#include "Primer_2_6_2.h"
 
 int main()
 {
@@ -54,5 +61,11 @@ int main()
   //PrimerExercises_1_23::primerExercises_1_23();
   //Primer_1_6::primer_1_6();
   //PrimerExercises_2_3::primerExercises_2_3();
+  //PrimerExercises_2_18::primerExercises_2_18();
+  //PrimerExercises_2_34::primerExercises_2_34();
+  //PrimerExercises_2_35::primerExercises_2_35();
+  //PrimerExercises_2_36::primerExercises_2_36();
+  //PrimerExercises_2_37::primerExercises_2_37();
+  //Primer_2_6_2::primer_2_6_2();
   return 0;
 }

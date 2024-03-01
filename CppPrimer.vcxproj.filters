@@ -25,6 +25,12 @@
     <Filter Include="Header Files\UtilHead">
       <UniqueIdentifier>{9ef1987d-fe39-421c-94bd-791d71be0ef4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ChapterTwoCpp">
+      <UniqueIdentifier>{8cbd8997-2105-40b1-8809-31618158fd1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ChapterTwoHead">
+      <UniqueIdentifier>{7ff9e50c-49ae-4b57-8890-830be830484f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -105,8 +111,29 @@
     <ClCompile Include="UtilMod.cpp">
       <Filter>Source Files\UtilCpp</Filter>
     </ClCompile>
+    <ClCompile Include="Primer_2_6_1.cpp">
+      <Filter>Source Files\ChapterTwoCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Primer_2_6_2.cpp">
+      <Filter>Source Files\ChapterTwoCpp</Filter>
+    </ClCompile>
     <ClCompile Include="PrimerExercises_2_3.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\ChapterTwoCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_2_18.cpp">
+      <Filter>Source Files\ChapterTwoCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_2_34.cpp">
+      <Filter>Source Files\ChapterTwoCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_2_35.cpp">
+      <Filter>Source Files\ChapterTwoCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_2_36.cpp">
+      <Filter>Source Files\ChapterTwoCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_2_37.cpp">
+      <Filter>Source Files\ChapterTwoCpp</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -191,8 +218,29 @@
     <ClInclude Include="UtilMod.h">
       <Filter>Header Files\UtilHead</Filter>
     </ClInclude>
+    <ClInclude Include="Primer_2_6_1.h">
+      <Filter>Header Files\ChapterTwoHead</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_2_6_2.h">
+      <Filter>Header Files\ChapterTwoHead</Filter>
+    </ClInclude>
     <ClInclude Include="PrimerExercises_2_3.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\ChapterTwoHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_2_18.h">
+      <Filter>Header Files\ChapterTwoHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_2_34.h">
+      <Filter>Header Files\ChapterTwoHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_2_35.h">
+      <Filter>Header Files\ChapterTwoHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_2_36.h">
+      <Filter>Header Files\ChapterTwoHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_2_37.h">
+      <Filter>Header Files\ChapterTwoHead</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
