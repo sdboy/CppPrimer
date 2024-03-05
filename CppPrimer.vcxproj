@@ -120,6 +120,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PrimerExercises_3_31.cpp" />
     <ClCompile Include="PrimerExercises_1_18.cpp" />
     <ClCompile Include="PrimerExercises_1_10.cpp" />
     <ClCompile Include="PrimerExercises_1_11.cpp" />
@@ -142,6 +143,27 @@
     <ClCompile Include="PrimerExercises_2_35.cpp" />
     <ClCompile Include="PrimerExercises_2_36.cpp" />
     <ClCompile Include="PrimerExercises_2_37.cpp" />
+    <ClCompile Include="PrimerExercises_3_16.cpp" />
+    <ClCompile Include="PrimerExercises_3_2.cpp" />
+    <ClCompile Include="PrimerExercises_3_20.cpp" />
+    <ClCompile Include="PrimerExercises_3_21.cpp" />
+    <ClCompile Include="PrimerExercises_3_22.cpp" />
+    <ClCompile Include="PrimerExercises_3_23.cpp" />
+    <ClCompile Include="PrimerExercises_3_24.cpp" />
+    <ClCompile Include="PrimerExercises_3_25.cpp" />
+    <ClCompile Include="PrimerExercises_3_32.cpp" />
+    <ClCompile Include="PrimerExercises_3_35.cpp" />
+    <ClCompile Include="PrimerExercises_3_36.cpp" />
+    <ClCompile Include="PrimerExercises_3_39.cpp" />
+    <ClCompile Include="PrimerExercises_3_4.cpp" />
+    <ClCompile Include="PrimerExercises_3_40.cpp" />
+    <ClCompile Include="PrimerExercises_3_41.cpp" />
+    <ClCompile Include="PrimerExercises_3_42.cpp" />
+    <ClCompile Include="PrimerExercises_3_43.cpp" />
+    <ClCompile Include="PrimerExercises_3_44.cpp" />
+    <ClCompile Include="PrimerExercises_3_45.cpp" />
+    <ClCompile Include="PrimerExercises_3_5.cpp" />
+    <ClCompile Include="PrimerExercises_3_17.cpp" />
     <ClCompile Include="Primer_1_2.cpp" />
     <ClCompile Include="Primer_1_4_1.cpp" />
     <ClCompile Include="Primer_1_4_2.cpp" />
@@ -152,9 +174,17 @@
     <ClCompile Include="Primer_1_6.cpp" />
     <ClCompile Include="Primer_2_6_1.cpp" />
     <ClCompile Include="Primer_2_6_2.cpp" />
+    <ClCompile Include="Primer_3_10.cpp" />
+    <ClCompile Include="Primer_3_14.cpp" />
+    <ClCompile Include="Primer_3_15.cpp" />
+    <ClCompile Include="Primer_3_3_3.cpp" />
+    <ClCompile Include="Primer_3_6.cpp" />
+    <ClCompile Include="Primer_3_7.cpp" />
+    <ClCompile Include="Primer_3_8.cpp" />
     <ClCompile Include="UtilMod.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PrimerExercises_3_31.h" />
     <ClInclude Include="PrimerExercises_1_18.h" />
     <ClInclude Include="PrimerExercises_1_10.h" />
     <ClInclude Include="PrimerExercises_1_11.h" />
@@ -177,6 +207,27 @@
     <ClInclude Include="PrimerExercises_2_35.h" />
     <ClInclude Include="PrimerExercises_2_36.h" />
     <ClInclude Include="PrimerExercises_2_37.h" />
+    <ClInclude Include="PrimerExercises_3_16.h" />
+    <ClInclude Include="PrimerExercises_3_2.h" />
+    <ClInclude Include="PrimerExercises_3_20.h" />
+    <ClInclude Include="PrimerExercises_3_21.h" />
+    <ClInclude Include="PrimerExercises_3_22.h" />
+    <ClInclude Include="PrimerExercises_3_23.h" />
+    <ClInclude Include="PrimerExercises_3_24.h" />
+    <ClInclude Include="PrimerExercises_3_25.h" />
+    <ClInclude Include="PrimerExercises_3_32.h" />
+    <ClInclude Include="PrimerExercises_3_35.h" />
+    <ClInclude Include="PrimerExercises_3_36.h" />
+    <ClInclude Include="PrimerExercises_3_39.h" />
+    <ClInclude Include="PrimerExercises_3_4.h" />
+    <ClInclude Include="PrimerExercises_3_40.h" />
+    <ClInclude Include="PrimerExercises_3_41.h" />
+    <ClInclude Include="PrimerExercises_3_42.h" />
+    <ClInclude Include="PrimerExercises_3_43.h" />
+    <ClInclude Include="PrimerExercises_3_44.h" />
+    <ClInclude Include="PrimerExercises_3_45.h" />
+    <ClInclude Include="PrimerExercises_3_5.h" />
+    <ClInclude Include="PrimerExercises_3_17.h" />
     <ClInclude Include="Primer_1_2.h" />
     <ClInclude Include="Primer_1_4_1.h" />
     <ClInclude Include="Primer_1_4_2.h" />
@@ -187,6 +238,13 @@
     <ClInclude Include="Primer_1_6.h" />
     <ClInclude Include="Primer_2_6_1.h" />
     <ClInclude Include="Primer_2_6_2.h" />
+    <ClInclude Include="Primer_3_10.h" />
+    <ClInclude Include="Primer_3_14.h" />
+    <ClInclude Include="Primer_3_15.h" />
+    <ClInclude Include="Primer_3_3_3.h" />
+    <ClInclude Include="Primer_3_6.h" />
+    <ClInclude Include="Primer_3_7.h" />
+    <ClInclude Include="Primer_3_8.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Sales_item.h" />
     <ClInclude Include="UtilMod.h" />

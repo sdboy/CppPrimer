@@ -31,6 +31,12 @@
     <Filter Include="Header Files\ChapterTwoHead">
       <UniqueIdentifier>{7ff9e50c-49ae-4b57-8890-830be830484f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ChapterThreeCpp">
+      <UniqueIdentifier>{3160f66b-de65-4d5f-947d-9df17b439d26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ChapterThreeHead">
+      <UniqueIdentifier>{e476c706-cb62-4b62-819a-be92df5d5268}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -134,6 +140,93 @@
     </ClCompile>
     <ClCompile Include="PrimerExercises_2_37.cpp">
       <Filter>Source Files\ChapterTwoCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Primer_3_3_3.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Primer_3_6.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Primer_3_7.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Primer_3_8.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Primer_3_10.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Primer_3_14.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Primer_3_15.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_2.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_4.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_5.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_16.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_17.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_20.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_21.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_22.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_23.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_24.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_25.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_31.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_32.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_35.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_36.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_39.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_40.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_41.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_42.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_43.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_44.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimerExercises_3_45.cpp">
+      <Filter>Source Files\ChapterThreeCpp</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -241,6 +334,93 @@
     </ClInclude>
     <ClInclude Include="PrimerExercises_2_37.h">
       <Filter>Header Files\ChapterTwoHead</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_3_3_3.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_3_6.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_3_7.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_3_8.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_3_10.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_3_14.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="Primer_3_15.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_2.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_4.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_5.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_16.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_17.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_20.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_21.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_22.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_23.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_24.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_25.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_31.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_32.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_35.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_36.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_39.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_40.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_41.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_42.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_43.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_44.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
+    </ClInclude>
+    <ClInclude Include="PrimerExercises_3_45.h">
+      <Filter>Header Files\ChapterThreeHead</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
