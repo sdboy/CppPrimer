@@ -41,14 +41,14 @@ target_link_libraries(exercises PUBLIC tools)
 # 链接依赖：primer依赖tools
 target_link_libraries(primer PUBLIC tools)
 # 主程序
-add_executable(main main.cpp)
+add_executable(${PROJECT_NAME} main.cpp)
 # 链接所有库（tools会通过exercises和primer自动传递）
-target_link_libraries(main 
+target_link_libraries(${PROJECT_NAME} 
     exercises
     primer
 )
 # 如果需要，可以设置输出的调试信息更友好
-set_target_properties(main PROPERTIES
+set_target_properties(${PROJECT_NAME} PROPERTIES
     RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin"
     ARCHIVE_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/lib"
     LIBRARY_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/lib"
